@@ -16,6 +16,8 @@ Pin 2 of IC6 needs connecting to Pin 3 of IC8.
 
 Also used the excellent work of myelin and his KiCad files for the connectors
 
+https://github.com/myelin/myelin-kicad.pretty
+
 
 
 ## Other issues to correct:-
