@@ -1,5 +1,6 @@
 # Acorn Plus 1 Reimagine
 Recreation of the Acorn Plus 1 based off of original schematic and redrawn schematic
+
 Goal was to recreate as much as possible the schematic and design of the original PCB and to use descrit components.
 
 Issues sourcing components as some are no longer made. Cost to make is >£100, PCB's £11 each PCBway used to make boards
@@ -8,6 +9,7 @@ Issues sourcing components as some are no longer made. Cost to make is >£100, P
 Using original schematic from Acorn and redrawn schematic by P.Harvey
 
 Points to note, redrawn schematic has -5V going to Analogue port should be +5V
+
 Pin 2 of IC6 needs connecting to Pin 3 of IC8.
 
 
