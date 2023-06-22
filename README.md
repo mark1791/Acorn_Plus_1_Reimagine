@@ -5,6 +5,8 @@ Goal was to recreate as much as possible the schematic and design of the origina
 
 Issues sourcing components as some are no longer made. Cost to make is >£100, PCB's £11 each PCBway used to make boards
 
+![Screenshot](Images/Plus1_Remake.jpg)
+
 ## First version created June 2023.
 Using original schematic from Acorn and redrawn schematic by P.Harvey
 
