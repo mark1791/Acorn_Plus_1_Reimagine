@@ -1,14 +1,14 @@
 # Acorn_Plus_1_Reimagine
 Recreation of the Acorn Plus 1 based off of original schematic and redrawn schematic
 
-# First version created June 2023.
+## First version created June 2023.
 Using original schematic from Acorn and redrawn schematic by P.Harvey
 
 Points to note, redrawn schematic has -5V going to Analogue port should be +5V
 Pin 2 of IC6 needs connecting to Pin 3 of IC8.
 
 
-# Other issues to correct:-
+## Other issues to correct:-
 
 IC6 needs moving 1.2mm up so AP6 board will fit.
 
