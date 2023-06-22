@@ -10,7 +10,7 @@ Pin 2 of IC6 needs connecting to Pin 3 of IC8.
 
 Other issues to correct:-
 
-IC6 needs moving 1.2mm up so AP6 board will fit
+IC6 needs moving 1.2mm up so AP6 board will fit.
 Two holes missing one mounting hole and one hole by lower edge connector
 Resistor size chosen a bit small just fits
 Left analogue hole needs to be moved 2mm as doesnt align with lower case
