@@ -14,6 +14,9 @@ Points to note, redrawn schematic has -5V going to Analogue port should be +5V
 
 Pin 2 of IC6 needs connecting to Pin 3 of IC8.
 
+Also used the excellent work of myelin and his KiCad files for the connectors
+
+
 
 ## Other issues to correct:-
 
