@@ -1,5 +1,8 @@
-# Acorn_Plus_1_Reimagine
+# Acorn Plus 1 Reimagine
 Recreation of the Acorn Plus 1 based off of original schematic and redrawn schematic
+Goal was to recreate as much as possible the schematic and design of the original PCB and to use descrit components.
+
+Issues sourcing components as some are no longer made. Cost to make is >£100, PCB's £11 each PCBway used to make boards
 
 ## First version created June 2023.
 Using original schematic from Acorn and redrawn schematic by P.Harvey
