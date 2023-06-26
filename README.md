@@ -7,6 +7,10 @@ Issues sourcing components as some are no longer made. Cost to make is >£100, P
 
 ![Screenshot](Images/Plus1_Remake.jpg)
 
+## V1.1.1 Updated version
+Missed a hole off on lower left for mounting PCB to Case. 
+Note :- Version 1.1/1.1.1 not made into PCB's yet as of 26/06/23
+
 ## V1.1 Second version
 Issues fixed listed below found in V1 and other issues on Stardot
 
