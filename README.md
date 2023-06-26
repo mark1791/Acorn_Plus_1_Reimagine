@@ -7,7 +7,10 @@ Issues sourcing components as some are no longer made. Cost to make is >£100, P
 
 ![Screenshot](Images/Plus1_Remake.jpg)
 
-## First version created June 2023.
+## V1.1 Second version
+Issues fixed listed below found in V1 and other issues on Stardot
+
+## V1 First version created June 2023.
 Using original schematic from Acorn and redrawn schematic by P.Harvey
 
 Points to note, redrawn schematic has -5V going to Analogue port should be +5V
@@ -20,7 +23,7 @@ https://github.com/myelin/myelin-kicad.pretty
 
 
 
-## Other issues to correct:-
+## Other issues to correct:-(Fixed on V1.1)
 
 IC6 needs moving 1.2mm up so AP6 board will fit.
 
